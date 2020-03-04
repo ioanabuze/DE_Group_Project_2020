@@ -2,7 +2,11 @@
 
 Members: 
 Ioana 
+
 Ophelie
+
 Maggi
+
 Bianca
+
 Thomas 
