@@ -8,6 +8,6 @@ Ophelie
 
 Maggi
 
-Bianca
+Bianca Ursulescu
 
 Thomas 
