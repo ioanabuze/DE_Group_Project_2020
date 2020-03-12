@@ -1,13 +1,4 @@
-# DE_Group_Project_2020
+# Team B
+# MSIN0166 Data Engineering: Group Coursework
+13 March 2020
 
-Members: 
-
-Ioana Buzelan
-
-Ophelie
-
-Maggi
-
-Bianca Ursulescu
-
-Thomas 
